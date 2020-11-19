@@ -1,0 +1,279 @@
+CadQIBI.exe: 00002AE0: 01:37:06 [TUniServerModule]:Shutting Down Server.
+CadQIBI.exe: 00002AE0: 01:37:06 [TUniServerModule]:Stopping HTTP Server.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniServerModule]:HTTP Server Stopped.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniGUISessionManager]:Terminating Session manager.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniGUISessionManager]:Destroying Worker Threads.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniGUISessionManager]:Session manager terminated.
+CadQIBI.exe: 00002AE0: 01:37:07 [TUniServerModule]:Server Shutdown Completed.
+CadQIBI.exe: 00002AE0: 01:37:07 []:<-------------------------------------------------------------->
+CadQIBI.exe: 00002AE0: 01:37:07 [Terminated]:Exit Code: 0
+CadQIBI.exe: 0000168C: 01:37:17 []:>--------------------------------------------------------------<
+CadQIBI.exe: 0000168C: 01:37:17 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 0000168C: 01:37:17 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 0000168C: 01:37:17 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000764: 01:37:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: XYu1BlXWso1072DC259 ) : Addr: $007BEE52
+CadQIBI.exe: 00000764: 01:37:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: XYu1BlXWso1072DC259 ) : Addr: $007BEE52
+CadQIBI.exe: 00000764: 01:37:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: XYu1BlXWso1072DC259 ) : Addr: $007BEE52
+CadQIBI.exe: 0000235C: 01:37:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: XYu1BlXWso1072DC259 ) : Addr: $007BEE52
+CadQIBI.exe: 0000278C: 01:38:29 []:>--------------------------------------------------------------<
+CadQIBI.exe: 0000278C: 01:38:29 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 0000278C: 01:38:29 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 0000278C: 01:38:29 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 0000278C: 01:38:29 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002088: 01:38:30 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: EJkUZtQsoJ1072DC2A8 ) : Addr: $007BEE52
+CadQIBI.exe: 00002088: 01:38:30 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: EJkUZtQsoJ1072DC2A8 ) : Addr: $007BEE52
+CadQIBI.exe: 00000B34: 01:38:30 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: EJkUZtQsoJ1072DC2A8 ) : Addr: $007BEE52
+CadQIBI.exe: 0000292C: 01:41:48 []:>--------------------------------------------------------------<
+CadQIBI.exe: 0000292C: 01:41:48 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 0000292C: 01:41:48 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 0000292C: 01:41:48 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 0000292C: 01:41:48 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000009B8: 01:42:36 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000009B8: 01:42:36 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000009B8: 01:42:36 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+CadQIBI.exe: 000009B8: 01:42:36 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000009B8: 01:42:36 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000584: 01:42:36 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: DntJ1qT3mA1072DC3E7 ) : Addr: $007BEE52
+CadQIBI.exe: 00000E0C: 01:45:43 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000E0C: 01:45:43 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000E0C: 01:45:43 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+CadQIBI.exe: 00000E0C: 01:45:43 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000E0C: 01:45:43 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000007C8: 01:49:53 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000007C8: 01:49:53 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000007C8: 01:49:53 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 000007C8: 01:49:53 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000007C8: 01:49:53 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000000E4: 01:49:53 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: CKQMgozI9L1072DC417 ) : Addr: $007BEE52
+CadQIBI.exe: 0000287C: 01:49:59 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000000E4: 01:49:59 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\files\images\user.svg
+CadQIBI.exe: 00000D68: 01:53:57 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000D68: 01:53:57 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000D68: 01:53:57 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 00000D68: 01:53:57 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000D68: 01:53:57 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000024E4: 01:54:21 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000024E4: 01:54:21 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000024E4: 01:54:21 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 000024E4: 01:54:21 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000024E4: 01:54:21 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001B60: 01:55:20 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001B60: 01:55:20 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001B60: 01:55:20 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 00001B60: 01:55:20 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001B60: 01:55:20 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000504: 01:55:20 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ZpdehOhCgo1072DC611 ) : Addr: $007BEE52
+CadQIBI.exe: 00000504: 01:55:20 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ZpdehOhCgo1072DC611 ) : Addr: $007BEE52
+CadQIBI.exe: 00002B6C: 01:55:20 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ZpdehOhCgo1072DC611 ) : Addr: $007BEE52
+CadQIBI.exe: 00000504: 01:55:20 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ZpdehOhCgo1072DC611 ) : Addr: $007BEE52
+CadQIBI.exe: 00002B6C: 01:55:29 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00000E54: 01:56:41 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000E54: 01:56:41 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000E54: 01:56:41 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 00000E54: 01:56:41 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000E54: 01:56:41 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002354: 01:56:42 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: q6IMHkcihM1072DC78F ) : Addr: $007BEE52
+CadQIBI.exe: 00002354: 01:56:45 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002204: 01:57:48 [192.168.0.100]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 2tgNgE81Xs1072DBDBD ) : Addr: $007BEE52
+CadQIBI.exe: 000017F8: 01:58:19 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000017F8: 01:58:19 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000017F8: 01:58:19 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 000017F8: 01:58:19 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000017F8: 01:58:19 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001B84: 01:59:02 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001B84: 01:59:02 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001B84: 01:59:02 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 00001B84: 01:59:02 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001B84: 01:59:02 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002A94: 01:59:03 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 4nnq5IQTZo1072DC7E9 ) : Addr: $007BEE52
+CadQIBI.exe: 00002A94: 01:59:10 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000023DC: 01:59:27 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000025D8: 01:59:37 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00000494: 01:59:41 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 0000246C: 01:59:51 [HandleFileRequest[192.168.0.100]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00000E38: 02:00:37 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000E38: 02:00:37 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000E38: 02:00:37 [TUniServerModule]:Global Cache Folder Erased. <12> Files deleted.
+CadQIBI.exe: 00000E38: 02:00:37 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000E38: 02:00:37 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001BB4: 02:00:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: yzj4hKIqyn1072DC890 ) : Addr: $007BEE52
+CadQIBI.exe: 00001BB4: 02:00:43 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002B2C: 02:00:46 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00000480: 02:01:24 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000480: 02:01:24 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000480: 02:01:24 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+CadQIBI.exe: 00000480: 02:01:24 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000480: 02:01:24 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002F6C: 02:04:57 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002F6C: 02:04:57 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002F6C: 02:04:57 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 00002F6C: 02:04:57 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002F6C: 02:04:57 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002FA0: 02:05:00 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 9ASUDaFS2p1072DC8FC ) : Addr: $007BEE52
+CadQIBI.exe: 00002FA0: 02:05:07 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002FD4: 02:05:13 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002C70: 02:05:54 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00001348: 02:05:57 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000028F0: 02:07:29 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000028F0: 02:07:29 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000028F0: 02:07:29 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+CadQIBI.exe: 000028F0: 02:07:29 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000028F0: 02:07:29 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002F08: 02:07:44 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002F08: 02:07:44 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002F08: 02:07:44 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 00002F08: 02:07:44 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002F08: 02:07:44 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002E18: 02:07:55 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: UX6moCAgtN1072DCA2E ) : Addr: $007BEE52
+CadQIBI.exe: 00002E18: 02:07:59 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00000EE8: 02:08:12 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002D7C: 02:08:20 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002A44: 02:09:34 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002A44: 02:09:34 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002A44: 02:09:34 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+CadQIBI.exe: 00002A44: 02:09:34 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002A44: 02:09:34 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002508: 02:09:36 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: RTdgTnp2oA1072DCAF5 ) : Addr: $007BEE52
+CadQIBI.exe: 00002508: 02:09:40 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002134: 02:10:17 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002134: 02:10:17 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002134: 02:10:17 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 00002134: 02:10:17 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002134: 02:10:17 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002540: 02:10:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ylp9zqX9lA1072DCB68 ) : Addr: $007BEE52
+CadQIBI.exe: 00002540: 02:10:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ylp9zqX9lA1072DCB68 ) : Addr: $007BEE52
+CadQIBI.exe: 00002B24: 02:10:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ylp9zqX9lA1072DCB68 ) : Addr: $007BEE52
+CadQIBI.exe: 00002B24: 02:10:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ylp9zqX9lA1072DCB68 ) : Addr: $007BEE52
+CadQIBI.exe: 00002540: 02:10:18 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: ylp9zqX9lA1072DCB68 ) : Addr: $007BEE52
+CadQIBI.exe: 00002B24: 02:10:22 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00001BB8: 02:12:26 [192.168.0.101]:EFDException : [FireDAC][Comp][Clnt]-512. Connection is not defined for [FDQueryAuxiliar]. Possible reason: Connection and ConnectionName property values are both empty : Addr: $0082859C
+CadQIBI.exe: 00000D40: 02:17:20 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000D40: 02:17:20 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000D40: 02:17:20 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+CadQIBI.exe: 00000D40: 02:17:20 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000D40: 02:17:20 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 0000250C: 02:17:20 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 6YXMwKiPlR1072DCB9B ) : Addr: $007BEE52
+CadQIBI.exe: 0000250C: 02:18:10 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000010A4: 02:18:16 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00001E10: 02:19:16 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001E10: 02:19:16 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001E10: 02:19:16 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+CadQIBI.exe: 00001E10: 02:19:16 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001E10: 02:19:16 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002EB0: 02:19:17 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: LEFRfO6xZO1072DCD83 ) : Addr: $007BEE52
+CadQIBI.exe: 0000051C: 02:19:17 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: LEFRfO6xZO1072DCD83 ) : Addr: $007BEE52
+CadQIBI.exe: 0000051C: 02:19:17 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: LEFRfO6xZO1072DCD83 ) : Addr: $007BEE52
+CadQIBI.exe: 00001654: 02:20:30 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001654: 02:20:30 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001654: 02:20:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00001654: 02:20:30 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001654: 02:20:30 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000720: 02:20:30 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: t2y4nDAtps1072DCE0D ) : Addr: $007BEE52
+CadQIBI.exe: 00000F54: 02:20:49 [192.168.0.100]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: uTrKfzxy6B1072DC8BE ) : Addr: $007BEE52
+CadQIBI.exe: 00001C80: 02:21:45 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001C80: 02:21:45 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001C80: 02:21:45 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00001C80: 02:21:45 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001C80: 02:21:45 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000D7C: 02:21:45 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: JJRFzgY17l1072DCE5F ) : Addr: $007BEE52
+CadQIBI.exe: 00000D7C: 02:21:45 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: JJRFzgY17l1072DCE5F ) : Addr: $007BEE52
+CadQIBI.exe: 00002EB0: 02:24:34 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002EB0: 02:24:34 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002EB0: 02:24:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00002EB0: 02:24:34 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002EB0: 02:24:34 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000016C0: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000010AC: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000010AC: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000016C0: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000016C0: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000010AC: 02:24:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: 1GJat7ga8D1072DCEB7 ) : Addr: $007BEE52
+CadQIBI.exe: 000010AC: 02:24:42 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00001BA0: 02:25:21 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001BA0: 02:25:21 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001BA0: 02:25:21 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 00001BA0: 02:25:21 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001BA0: 02:25:21 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002FE0: 02:25:24 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: vZKXcYYMBC1072DCF7E ) : Addr: $007BEE52
+CadQIBI.exe: 00002FE0: 02:25:24 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: vZKXcYYMBC1072DCF7E ) : Addr: $007BEE52
+CadQIBI.exe: 00002840: 02:26:34 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002840: 02:26:34 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002840: 02:26:34 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+CadQIBI.exe: 00002840: 02:26:34 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002840: 02:26:34 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001904: 02:26:35 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: nJyPpm4jQT1072DCFB3 ) : Addr: $007BEE52
+CadQIBI.exe: 00001A6C: 02:27:31 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001A6C: 02:27:31 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001A6C: 02:27:31 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00001A6C: 02:27:31 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001A6C: 02:27:31 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000A4C: 02:27:31 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: p45ZvJTogK1072DD006 ) : Addr: $007BEE52
+CadQIBI.exe: 00000A4C: 02:28:12 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 0000114C: 02:28:20 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 0000296C: 02:30:51 []:>--------------------------------------------------------------<
+CadQIBI.exe: 0000296C: 02:30:51 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 0000296C: 02:30:51 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+CadQIBI.exe: 0000296C: 02:30:51 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 0000296C: 02:30:51 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000020C8: 02:30:51 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: HLEdt6vt4g1072DD046 ) : Addr: $007BEE52
+CadQIBI.exe: 000020C8: 02:30:55 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002D3C: 02:30:57 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00001FEC: 02:31:02 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 00002C80: 02:31:12 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 0000150C: 02:32:09 []:>--------------------------------------------------------------<
+CadQIBI.exe: 0000150C: 02:32:09 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 0000150C: 02:32:09 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+CadQIBI.exe: 0000150C: 02:32:09 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 0000150C: 02:32:09 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00000B1C: 02:36:08 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000B1C: 02:36:08 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000B1C: 02:36:08 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+CadQIBI.exe: 00000B1C: 02:36:08 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000B1C: 02:36:08 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001FF8: 02:36:09 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: imeMN3aoQF1072DD12E ) : Addr: $007BEE52
+CadQIBI.exe: 00001FF8: 02:36:09 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: imeMN3aoQF1072DD12E ) : Addr: $007BEE52
+CadQIBI.exe: 00001FF8: 02:36:18 [HandleFileRequest[192.168.0.101]]:File not found: F:\Projeo Unigui\mobile\CadQibi\Win32\Debug\css\estilo.css
+CadQIBI.exe: 000020D0: 02:38:40 []:>--------------------------------------------------------------<
+CadQIBI.exe: 000020D0: 02:38:40 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 000020D0: 02:38:40 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 000020D0: 02:38:40 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 000020D0: 02:38:40 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002C9C: 02:38:40 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: hHcOWh48E41072DD29E ) : Addr: $007BEE52
+CadQIBI.exe: 00002C9C: 02:38:40 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: hHcOWh48E41072DD29E ) : Addr: $007BEE52
+CadQIBI.exe: 00001D88: 02:38:40 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: hHcOWh48E41072DD29E ) : Addr: $007BEE52
+CadQIBI.exe: 00000150: 02:39:01 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00000150: 02:39:01 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00000150: 02:39:01 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+CadQIBI.exe: 00000150: 02:39:01 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00000150: 02:39:01 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001C38: 02:39:57 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001C38: 02:39:57 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001C38: 02:39:57 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00001C38: 02:39:57 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001C38: 02:39:57 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 000017A8: 02:39:57 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: TDCF3HTaMW1072DD364 ) : Addr: $007BEE52
+CadQIBI.exe: 00002C70: 02:40:26 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00002C70: 02:40:26 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00002C70: 02:40:26 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+CadQIBI.exe: 00002C70: 02:40:26 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00002C70: 02:40:26 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00002FC0: 02:41:03 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: eDJ5HRoTMi1072DD3A6 ) : Addr: $007BEE52
+CadQIBI.exe: 00001834: 02:45:26 []:>--------------------------------------------------------------<
+CadQIBI.exe: 00001834: 02:45:26 [TUniServerModule]:Server First Init.
+CadQIBI.exe: 00001834: 02:45:26 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+CadQIBI.exe: 00001834: 02:45:26 [TUniServerModule]:Starting HTTP Server on Port: 8085...
+CadQIBI.exe: 00001834: 02:45:26 [TUniServerModule]:HTTP Server Started on Port: 8085
+CadQIBI.exe: 00001E50: 02:45:38 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. (Session not found: X9n4CVrC1M1072DD3F2 ) : Addr: $007BEE52
+CadQIBI.exe: 00001834: 02:47:06 [TUniServerModule]:Shutting Down Server.
+CadQIBI.exe: 00001834: 02:47:06 [TUniServerModule]:Stopping HTTP Server.
+CadQIBI.exe: 00001834: 02:47:07 [TUniServerModule]:HTTP Server Stopped.
+CadQIBI.exe: 00001834: 02:47:07 [TUniGUISessionManager]:Terminating Session manager.
+CadQIBI.exe: 00001834: 02:47:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+CadQIBI.exe: 00001834: 02:47:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+CadQIBI.exe: 00001834: 02:47:07 [TUniGUISessionManager]:Destroying Worker Threads.
+CadQIBI.exe: 00001834: 02:47:07 [TUniGUISessionManager]:Session manager terminated.
+CadQIBI.exe: 00001834: 02:47:07 [TUniServerModule]:Server Shutdown Completed.
+CadQIBI.exe: 00001834: 02:47:07 []:<-------------------------------------------------------------->
+CadQIBI.exe: 00001834: 02:47:07 [Terminated]:Exit Code: 0

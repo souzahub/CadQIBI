@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{F3982085-4B39-49DE-890F-97DFADA00CC3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="CadQIBI.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="CadQIBI">
+        <MSBuild Projects="CadQIBI.dproj"/>
+    </Target>
+    <Target Name="CadQIBI:Clean">
+        <MSBuild Projects="CadQIBI.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CadQIBI:Make">
+        <MSBuild Projects="CadQIBI.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="CadQIBI"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="CadQIBI:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="CadQIBI:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
